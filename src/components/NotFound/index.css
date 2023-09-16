@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.bg-light-mode {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.bg-dark-mode {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  flex-direction: column;
+  background-color: black;
+}
+
+.not-found-image {
+  height: 70%;
+  width: 40%;
+}
